@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxOpenXML_Part1", "AxOpenXML_Part1\AxOpenXML_Part1.csproj", "{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxOpenXML_Part2_dll", "AxOpenXML_Part2_dll\AxOpenXML_Part2_dll.csproj", "{A81683F4-7E97-482B-A76A-0177D2807006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxOpenXML_Part2", "AxOpenXML_Part2\AxOpenXML_Part2.csproj", "{BB4F2841-F909-4C3D-A01B-A1852F52896F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs19
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AxOpenXML_Part1\\AxOpenXML_Part1.csproj
+		SccProjectName1 = AxOpenXML_Part1
+		SccLocalPath1 = AxOpenXML_Part1
+		SccProjectUniqueName2 = AxOpenXML_Part2\\AxOpenXML_Part2.csproj
+		SccProjectName2 = AxOpenXML_Part2
+		SccLocalPath2 = AxOpenXML_Part2
+		SccProjectUniqueName3 = AxOpenXML_Part2_dll\\AxOpenXML_Part2_dll.csproj
+		SccProjectName3 = AxOpenXML_Part2_dll
+		SccLocalPath3 = AxOpenXML_Part2_dll
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Debug|x86.ActiveCfg = Debug|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Debug|x86.Build.0 = Debug|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Release|Any CPU.ActiveCfg = Release|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Release|x86.ActiveCfg = Release|x86
+		{5E77D1DA-B12C-4FCC-8B49-B2664DF6039C}.Release|x86.Build.0 = Release|x86
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A81683F4-7E97-482B-A76A-0177D2807006}.Release|x86.ActiveCfg = Release|Any CPU
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Debug|x86.ActiveCfg = Debug|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Debug|x86.Build.0 = Debug|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Release|Any CPU.ActiveCfg = Release|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Release|x86.ActiveCfg = Release|x86
+		{BB4F2841-F909-4C3D-A01B-A1852F52896F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
